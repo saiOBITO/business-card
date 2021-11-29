@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/business-card/static/css/main.bf7faab4.chunk.css",
+    "main.js": "/business-card/static/js/main.510a0595.chunk.js",
+    "main.js.map": "/business-card/static/js/main.510a0595.chunk.js.map",
+    "runtime-main.js": "/business-card/static/js/runtime-main.aee03648.js",
+    "runtime-main.js.map": "/business-card/static/js/runtime-main.aee03648.js.map",
+    "static/js/2.10d15307.chunk.js": "/business-card/static/js/2.10d15307.chunk.js",
+    "static/js/2.10d15307.chunk.js.map": "/business-card/static/js/2.10d15307.chunk.js.map",
+    "static/js/3.3f41ae4b.chunk.js": "/business-card/static/js/3.3f41ae4b.chunk.js",
+    "static/js/3.3f41ae4b.chunk.js.map": "/business-card/static/js/3.3f41ae4b.chunk.js.map",
+    "index.html": "/business-card/index.html",
+    "static/css/main.bf7faab4.chunk.css.map": "/business-card/static/css/main.bf7faab4.chunk.css.map",
+    "static/js/2.10d15307.chunk.js.LICENSE.txt": "/business-card/static/js/2.10d15307.chunk.js.LICENSE.txt",
+    "static/media/dp.e6f99749.jpg": "/business-card/static/media/dp.e6f99749.jpg",
+    "static/media/email.dae1072b.png": "/business-card/static/media/email.dae1072b.png",
+    "static/media/instagram.75e0546a.png": "/business-card/static/media/instagram.75e0546a.png",
+    "static/media/linkedin.a680cb8a.png": "/business-card/static/media/linkedin.a680cb8a.png",
+    "static/media/reddit.68e0b723.png": "/business-card/static/media/reddit.68e0b723.png",
+    "static/media/twitter.89498832.png": "/business-card/static/media/twitter.89498832.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aee03648.js",
+    "static/js/2.10d15307.chunk.js",
+    "static/css/main.bf7faab4.chunk.css",
+    "static/js/main.510a0595.chunk.js"
+  ]
+}
